@@ -27,8 +27,16 @@ Para comenzar, tendremos que actualizar el administrador del panel con una URL p
 
 Http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-![](https://github.com/erhnam/ESPRaspberry/blob/master/fotos/Vision.png)
+![](https://github.com/erhnam/ESPRaspberry/blob/master/fotos/adm.png)
 
 Pulse Aceptar. A continuación, vaya al Administrador de la Junta, accediendo a Herramientas> Directorios> Directorios. Debe haber un par de nuevas entradas además de las tablas estándar de Arduino. Busque esp8266. Haga clic en esa entrada, luego seleccione Instalar.
 
-![](https://github.com/erhnam/ESPRaspberry/blob/master/fotos/Vision.png)
+![](https://github.com/erhnam/ESPRaspberry/blob/master/fotos/install.png)
+
+A continuación instale la librería Adafruit MQTT
+
+![](https://github.com/erhnam/ESPRaspberry/blob/master/fotos/mqtt.png)
+
+Finalmente, para instalar el protocolo MQTT en la Raspberry, ejecute el siguiente comando:
+
+sudo pip3 install paho-mqtt python-etcd

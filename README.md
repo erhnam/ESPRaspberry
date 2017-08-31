@@ -20,3 +20,15 @@
 1. Python 3.42
 2. Paho-Mqtt
 3. Arduino IDE
+
+### Instalación:
+
+Para comenzar, tendremos que actualizar el administrador del panel con una URL personalizada. Abra Arduino, luego vaya a Preferencias (Archivo> Preferencias). A continuación, en la parte inferior de la ventana, copie esta URL en el cuadro de texto "Administrador de directorios adicionales":
+
+Http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+![](https://github.com/erhnam/ESPRaspberry/blob/master/fotos/Vision.png)
+
+Pulse Aceptar. A continuación, vaya al Administrador de la Junta, accediendo a Herramientas> Directorios> Directorios. Debe haber un par de nuevas entradas además de las tablas estándar de Arduino. Busque esp8266. Haga clic en esa entrada, luego seleccione Instalar.
+
+![](https://github.com/erhnam/ESPRaspberry/blob/master/fotos/Vision.png)

@@ -5,7 +5,7 @@
 
 #### Visión general del proyecto
 
-![](https://github.com/erhnam/Raspirover/blob/master/fotos/vision.png)
+![](https://github.com/erhnam/ESPRaspberry/blob/master/fotos/Vision.png)
 
 #### Dispositivos:
 1. Raspberry Pi Zero W  
